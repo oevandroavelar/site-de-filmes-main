@@ -36,34 +36,12 @@ O **Site de Filmes** foi criado com o objetivo de demonstrar minhas habilidades 
 
 ---
 
-## 📂 Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/oevandroavelar/site-de-filmes.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd site-de-filmes
-   ```
-3. Abra o arquivo `index.html` no seu navegador.
-
----
-
-## 🔗 Links
-
-📌 [Repositório no GitHub](https://github.com/oevandroavelar/site-de-filmes)  
-📌 [Demonstração Online](#) *(Em breve!)*
-
----
-
 ## 📞 Contato
 
 Caso tenha sugestões ou dúvidas, entre em contato:
 
-📧 **E-mail:** evandro@example.com  
-🌎 **LinkedIn:** [Evandro Avelar](https://www.linkedin.com/in/oevandroavelar/)  
-🐦 **Twitter:** [@evandroavelar](https://twitter.com/evandroavelar)
+📧 **E-mail:** evandro.avelar.sc@gmail.com
+🌎 **LinkedIn:** [Evandro Avelar](https://www.linkedin.com/in/evandro-matos-avelar-1abb6b116/)  
 
 ---
 
